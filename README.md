@@ -1,3 +1,3 @@
 # creator
-###~~how to play~~
-######all instructions are inside
+### ~~how to play~~
+###### all instructions are inside
